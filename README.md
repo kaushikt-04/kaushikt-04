@@ -6,7 +6,6 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-talukdar-8b7b86257/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.taimoorkhan.co.in/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaushikt-04/)
 [![Codolio](https://img.shields.io/badge/Codolio-1E90FF?style=for-the-badge)](https://codolio.com/profile/ocrGhgbJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushiktalukdar2012@@gail.com)
