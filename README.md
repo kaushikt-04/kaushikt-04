@@ -5,16 +5,18 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-talukdar-8b7b86257/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.taimoorkhan.co.in/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaushikt-04/)
+[![Codolio](https://img.shields.io/badge/Codolio-1E90FF?style=for-the-badge)](https://codolio.com/profile/ocrGhgbJ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushiktalukdar2012@@gail.com)
 
 ---
 
 ## 🌟 Live Projects  
-- **📰 News App** → [View Live](https://your-news-app-link.com)  
-- **📹 Video Sharing App** → [View Live](https://your-video-app-link.com)  
-- **📝 My Notes App** → [View Live](https://your-notes-app-link.com)  
+- **📰 NITSMUN Website** → [View Live](https://nitsmun2023-24.vercel.app/)  
+- **💼 Portfolio Website** → [View Live](https://www.taimoorkhan.co.in/)  
+- **📝 My Notes App** → [View Live](https://my-notes-livid-psi.vercel.app/)  
 
 ---
 
@@ -31,6 +33,6 @@
 
 ## 📫 Let's Collaborate!
 💡 Open to opportunities in **software development, data analytics, and research projects**.  
-📩 Drop me a message on [LinkedIn](https://linkedin.com/in/your-linkedin) or email me.
+📩 Drop me a message on [LinkedIn](https://www.linkedin.com/in/kaushik-talukdar-8b7b86257/) or email me.
 
 ---
